@@ -55,7 +55,7 @@ export default function AboutUs() {
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
           <Link href="/" className="flex items-center space-x-2">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-AxJ4bCdthUOaQdRt62btUJzXWT33iX.png"
+              src="logo.png"
               alt="Kineton Logo"
               width={40}
               height={40}
